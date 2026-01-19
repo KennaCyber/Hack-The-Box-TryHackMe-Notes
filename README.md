@@ -10,6 +10,8 @@ This repository contains notes for Hack The Box & TryHackMe rooms I complete. To
 
 <ins>***TryHackMe***</ins>
 
+[Introduction to SIEM](SIEMINTRO.md)
+
 [What is Networking?](Networking.md)
 
 [Intro to LAN](LAN.md)
